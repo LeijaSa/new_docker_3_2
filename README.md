@@ -2,7 +2,7 @@
 
 ### https://new-docker.fly.dev/
 
-### Just frontend app without backend
+### Just frontend app (cloned from docker course) without backend
 
 ### instructions used:
 
